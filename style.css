@@ -1,0 +1,63 @@
+#canvas
+	{
+		border:1px solid grey;
+		margin-top:-20px;
+		margin-left:380px;
+	}
+.colorBtn
+	{
+		width:90px;
+		height:60px;
+		position:fixed;
+		top:73%;
+		border-radius:2%;
+	}
+.scoreBtn
+	{
+		background-color:#1f1f1f;
+		left:390px;
+		width:110px;
+		height:60px;
+		position:fixed;
+		top:73%;
+	}
+#points
+	{
+		font-size:30px;
+		color:white;
+		position:fixed;
+		top:460px;
+		left:440px;
+	}
+.heading
+	{
+		font-family:verdana;
+		font-size:20px;
+		color:#6c2275;
+		font-weight:bold
+	}
+.blue
+	{
+		background-color:#14b19f;
+		left:510px;
+	}
+.darkBlue
+	{
+		background-color:#0e274e;
+		left:610px;
+	}
+.pink
+	{
+		background-color:#ec5257;
+		left:710px;
+	}
+.purple
+	{
+		background-color:#6c2275;
+		left:810px;
+	}
+.yellow
+	{
+		background-color:#f9ac00;
+		left:910px;
+	}
